@@ -180,17 +180,40 @@ Launch Jupyter Notebook:
 ```bash
 Python Notebook/Sales_Data_Analysis.ipynb
 ```
+---
+
+## 🚀 Running the Analysis
+
 **Run all cells sequentially to:**
 
-**1.** Load and inspect the data
+1. 🧹 **Load and inspect** the data  
+2. 🔧 **Clean** missing values and duplicates  
+3. 📐 **Perform NumPy** calculations  
+4. 📊 **Aggregate** sales by product, region, and time  
+5. 📈 **Generate** visualizations  
 
-**2.** Clean missing values and duplicates
+All graphs are saved in the `Data Plots/` folder for easy inclusion in reports.  
+*(If the folder name causes linking issues, use `Data%20Plots/` or angle brackets in Markdown.)*
 
-**3.** Perform NumPy calculations
+---
 
-**4.** Aggregate sales by product, region, and time
+## 🙌 Acknowledgements
 
-**5.** Generate visualizations
+- Dataset generated to simulate real‑world sales records with intentional missing values and duplicates.  
+- Inspired by typical business analytics workflows.
 
-All graphs are saved in the images/ folder for easy inclusion in reports.
+---
 
+## 📄 License
+
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute as you like.
+
+---
+
+## 📬 Contact
+
+Have questions or suggestions? Feel free to [open an issue](https://github.com/AtmajoBurman/Python-Mini-Project-Sales-Data-Analysis-using-NumPy-Pandas-and-Matplotlib/issues) or reach out!
+
+---
+
+**Happy analyzing!** 🎯
